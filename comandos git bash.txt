@@ -1,0 +1,6 @@
+Git clone : clonar seu projeto do github, utilizando o endereço https.
+Git add : adicionar ele.
+Gd + nome do repositorio  entrar no repositorio.
+Git status: verificar se esta ok.
+
+
