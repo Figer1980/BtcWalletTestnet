@@ -1,9 +1,9 @@
 Git clone : clonar seu projeto do github, utilizando o endereço https.
 Git add : adicionar ele.
-Gd + nome do repositorio  entrar no repositorio.
+Gd + nome do repositorio: entrar no repositorio.
 Git status: verificar se esta ok.
 Git add . : salvar e preparar os arquivos para o github
-Git commit -a -m "primeiro commit" Assim você vai adicionar todos os arquivos do projeto no git e depois enviar o commit
+Git commit -a -m "primeiro commit" : Assim você vai adicionar todos os arquivos do projeto no git e depois enviar o commit
 Git push origin main : Com este comando você está enviando toda as alterações para o seu branch mestre, ou seja, principal
 
 
